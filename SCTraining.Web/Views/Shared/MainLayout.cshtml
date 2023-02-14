@@ -1,0 +1,19 @@
+﻿@using Sitecore.Mvc
+@using Sitecore.Mvc.Analytics.Extensions
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>MainLayout</title>
+
+    @Html.Sitecore().VisitorIdentification()
+</head>
+<body>
+    <div id="mainLayout"> 
+        <h1>My Main Layout</h1>
+        @Html.Sitecore().Placeholder("main")
+    </div>
+</body>
+</html>
