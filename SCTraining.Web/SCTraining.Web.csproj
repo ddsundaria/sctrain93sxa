@@ -459,15 +459,25 @@
     <Content Include="Views\Shared\MainLayout.cshtml" />
     <Content Include="Views\simplemvcviewrendering.cshtml" />
     <Content Include="Views\Events\Index.cshtml" />
+    <Content Include="Views\BlogPost\BlogDetails.cshtml" />
+    <Content Include="Views\BlogListing.cshtml" />
+    <Content Include="Views\Shared\twoColumnSublayout.cshtml" />
+    <Content Include="Views\Search\FindResults.cshtml" />
+    <Content Include="App_Config\Include\SCTraining.Web\SCTraining.Master.CustomIndex.config" />
     <None Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Controllers\BlogPostController.cs" />
     <Compile Include="Controllers\EventsController.cs" />
+    <Compile Include="Controllers\SearchController.cs" />
+    <Compile Include="Models\BlogPostViewModel.cs" />
+    <Compile Include="Models\BlogResultModel.cs" />
     <Compile Include="Models\EventsRenderingViewModel.cs" />
+    <Compile Include="Models\SearchResultItem.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Views\web.config" />
+    <Content Include="Views\web.config" />
     <None Include="packages.config" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>

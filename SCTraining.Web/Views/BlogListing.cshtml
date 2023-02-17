@@ -1,0 +1,31 @@
+﻿@using Sitecore.Mvc
+@using Sitecore.Mvc.Presentation
+@using Sitecore
+@using Sitecore.Links
+
+@model RenderingModel
+
+@{
+    var datasourceId = RenderingContext.CurrentOrNull.Rendering.DataSource;
+    var datasource = Sitecore.Context.Database.GetItem(datasourceId);
+
+    var backgroundColorParameter = RenderingContext.Current.Rendering.Parameters["BackgroundColor"];
+
+    <div style="background-color: @backgroundColorParameter">
+        @foreach (Sitecore.Data.Items.Item blogpost in datasource.Axes.GetDescendants())
+        {
+            if (blogpost.TemplateName == "Blog Post")
+            {
+                string link = Sitecore.Links.LinkManager.GetItemUrl(blogpost);
+
+                <div>
+                    <h4>@Html.Sitecore().Field("Title", blogpost)</h4>
+                    <p>@Html.Sitecore().Field("Summary", blogpost)</p>
+                    <span>@Html.Sitecore().Field("Date", blogpost)</span>
+                    <a href="@link">Read more</a>
+                </div>
+            }
+        }
+    </div>
+
+}

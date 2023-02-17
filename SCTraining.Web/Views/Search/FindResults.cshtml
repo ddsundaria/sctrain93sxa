@@ -1,0 +1,15 @@
+﻿@using Sitecore
+@using Sitecore.Mvc
+@using Sitecore.Mvc.Extensions
+
+@model List<Sitecore.Data.Items.Item>
+
+<div>
+    @foreach (var result in Model)
+    {
+        <h1>
+            @result.Name
+        </h1>
+        <a href="@Sitecore.Links.LinkManager.GetItemUrl(result)">read more</a>
+    }
+</div>

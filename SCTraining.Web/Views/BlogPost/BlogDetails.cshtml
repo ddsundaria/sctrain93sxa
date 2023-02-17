@@ -1,0 +1,29 @@
+﻿@using Sitecore.Mvc.Extensions
+@using Sitecore.Mvc
+@using Sitecore.Mvc.Presentation
+@model SCTraining.Web.Models.BlogPostViewModel
+
+@using (Html.EditFrame(RenderingContext.Current.ContextItem.ID.ToString(), "custom-web-edit", "Edit Blog Data", "Edit Blog Data", "", null))
+{
+    <div>
+        <h1>
+            @Model.Title
+        </h1>
+        <p>
+            @Model.Summary
+        </p>
+        <div>
+            <img class="rounded-circle" src="@Model.Author.AuthorImage" alt="@Model.Author.AuthorName"  width="100px" />
+            <h5>@Model.Author.AuthorName</h5>
+
+            <hr />
+            Post Date: @Model.BlogPostDate.ToString("dd-MMM-yyyy")
+        </div>
+        <div>
+            <img src="@Model.BlogImage" alt="@Model.Title" />
+            <div>
+                @Model.Body
+            </div>
+        </div>
+    </div>
+}

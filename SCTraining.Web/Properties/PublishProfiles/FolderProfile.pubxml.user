@@ -5,20 +5,23 @@ https://go.microsoft.com/fwlink/?LinkID=208121.
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
     <_PublishTargetUrl>C:\inetpub\wwwroot\sctrain93sc.dev.local</_PublishTargetUrl>
-    <History>True|2023-02-14T06:02:54.9312871Z;</History>
+    <History>True|2023-02-17T05:48:54.1736568Z;True|2023-02-17T06:20:43.2235511+01:00;True|2023-02-17T06:07:25.0022264+01:00;True|2023-02-16T08:23:38.4189990+01:00;True|2023-02-16T08:20:43.5406476+01:00;True|2023-02-16T07:32:26.3856644+01:00;True|2023-02-16T07:31:40.9590560+01:00;True|2023-02-16T07:29:02.9063524+01:00;True|2023-02-16T07:27:26.9009308+01:00;True|2023-02-16T07:25:25.4803626+01:00;True|2023-02-16T07:14:24.4183099+01:00;True|2023-02-16T07:02:59.9672564+01:00;True|2023-02-16T06:59:37.0480915+01:00;True|2023-02-16T06:53:02.2080974+01:00;True|2023-02-16T06:20:31.9571080+01:00;True|2023-02-16T06:13:46.9933787+01:00;True|2023-02-16T05:55:01.7244542+01:00;True|2023-02-15T08:50:13.7575791+01:00;True|2023-02-15T08:33:55.1516817+01:00;True|2023-02-15T08:08:30.4673325+01:00;True|2023-02-15T08:03:30.2010551+01:00;True|2023-02-15T08:02:17.2055394+01:00;True|2023-02-15T07:59:58.4987697+01:00;True|2023-02-15T07:58:08.2149001+01:00;True|2023-02-15T06:55:58.8144148+01:00;True|2023-02-14T07:02:54.9312871+01:00;</History>
   </PropertyGroup>
   <ItemGroup>
+    <File Include="App_Config/Include/SCTraining.Web/SCTraining.Master.CustomIndex.config">
+      <publishTime>02/17/2023 06:44:40</publishTime>
+    </File>
     <File Include="bin/de/PdfSharp.Charting.resources.dll">
-      <publishTime>04/02/2019 14:21:54</publishTime>
+      <publishTime>02/04/2019 14:21:54</publishTime>
     </File>
     <File Include="bin/de/PdfSharp.resources.dll">
-      <publishTime>04/02/2019 14:21:52</publishTime>
+      <publishTime>02/04/2019 14:21:52</publishTime>
     </File>
     <File Include="bin/DocumentFormat.OpenXml.dll">
-      <publishTime>07/06/2017 00:59:22</publishTime>
+      <publishTime>06/07/2017 00:59:22</publishTime>
     </File>
     <File Include="bin/FiftyOne.Foundation.dll">
-      <publishTime>02/06/2017 16:17:06</publishTime>
+      <publishTime>06/02/2017 16:17:06</publishTime>
     </File>
     <File Include="bin/HtmlAgilityPack.dll">
       <publishTime>07/14/2016 13:01:16</publishTime>
@@ -27,7 +30,7 @@ https://go.microsoft.com/fwlink/?LinkID=208121.
       <publishTime>07/14/2016 13:01:16</publishTime>
     </File>
     <File Include="bin/ICSharpCode.SharpZipLib.dll">
-      <publishTime>03/01/2011 15:16:38</publishTime>
+      <publishTime>01/03/2011 15:16:38</publishTime>
     </File>
     <File Include="bin/Lucene.Net.dll">
       <publishTime>10/26/2012 02:52:54</publishTime>
@@ -36,76 +39,76 @@ https://go.microsoft.com/fwlink/?LinkID=208121.
       <publishTime>10/26/2012 02:52:54</publishTime>
     </File>
     <File Include="bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll">
-      <publishTime>05/09/2018 17:10:50</publishTime>
+      <publishTime>09/05/2018 17:10:50</publishTime>
     </File>
     <File Include="bin/Microsoft.Configuration.ConfigurationBuilders.Base.dll">
-      <publishTime>09/07/2018 19:37:04</publishTime>
+      <publishTime>07/09/2018 19:37:04</publishTime>
     </File>
     <File Include="bin/Microsoft.Configuration.ConfigurationBuilders.Environment.dll">
-      <publishTime>09/07/2018 19:38:30</publishTime>
+      <publishTime>07/09/2018 19:38:30</publishTime>
     </File>
     <File Include="bin/Microsoft.DotNet.PlatformAbstractions.dll">
       <publishTime>05/15/2018 23:01:34</publishTime>
     </File>
     <File Include="bin/Microsoft.Extensions.Configuration.Abstractions.dll">
-      <publishTime>07/06/2018 02:27:02</publishTime>
+      <publishTime>06/07/2018 02:27:02</publishTime>
     </File>
     <File Include="bin/Microsoft.Extensions.Configuration.Binder.dll">
-      <publishTime>07/06/2018 02:26:52</publishTime>
+      <publishTime>06/07/2018 02:26:52</publishTime>
     </File>
     <File Include="bin/Microsoft.Extensions.Configuration.CommandLine.dll">
-      <publishTime>07/06/2018 02:26:54</publishTime>
+      <publishTime>06/07/2018 02:26:54</publishTime>
     </File>
     <File Include="bin/Microsoft.Extensions.Configuration.dll">
-      <publishTime>07/06/2018 02:27:02</publishTime>
+      <publishTime>06/07/2018 02:27:02</publishTime>
     </File>
     <File Include="bin/Microsoft.Extensions.Configuration.EnvironmentVariables.dll">
-      <publishTime>07/06/2018 02:26:52</publishTime>
+      <publishTime>06/07/2018 02:26:52</publishTime>
     </File>
     <File Include="bin/Microsoft.Extensions.Configuration.FileExtensions.dll">
-      <publishTime>07/06/2018 02:26:54</publishTime>
+      <publishTime>06/07/2018 02:26:54</publishTime>
     </File>
     <File Include="bin/Microsoft.Extensions.Configuration.Ini.dll">
-      <publishTime>07/06/2018 02:26:58</publishTime>
+      <publishTime>06/07/2018 02:26:58</publishTime>
     </File>
     <File Include="bin/Microsoft.Extensions.Configuration.Json.dll">
-      <publishTime>07/06/2018 02:26:54</publishTime>
+      <publishTime>06/07/2018 02:26:54</publishTime>
     </File>
     <File Include="bin/Microsoft.Extensions.Configuration.Xml.dll">
-      <publishTime>07/06/2018 02:26:58</publishTime>
+      <publishTime>06/07/2018 02:26:58</publishTime>
     </File>
     <File Include="bin/Microsoft.Extensions.DependencyInjection.Abstractions.dll">
-      <publishTime>07/06/2018 02:27:02</publishTime>
+      <publishTime>06/07/2018 02:27:02</publishTime>
     </File>
     <File Include="bin/Microsoft.Extensions.DependencyInjection.dll">
-      <publishTime>07/06/2018 02:26:58</publishTime>
+      <publishTime>06/07/2018 02:26:58</publishTime>
     </File>
     <File Include="bin/Microsoft.Extensions.DependencyModel.dll">
       <publishTime>05/15/2018 23:01:54</publishTime>
     </File>
     <File Include="bin/Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll">
-      <publishTime>12/11/2018 18:38:18</publishTime>
+      <publishTime>11/12/2018 18:38:18</publishTime>
     </File>
     <File Include="bin/Microsoft.Extensions.FileProviders.Abstractions.dll">
-      <publishTime>07/06/2018 02:27:02</publishTime>
+      <publishTime>06/07/2018 02:27:02</publishTime>
     </File>
     <File Include="bin/Microsoft.Extensions.FileProviders.Physical.dll">
-      <publishTime>07/06/2018 02:27:02</publishTime>
+      <publishTime>06/07/2018 02:27:02</publishTime>
     </File>
     <File Include="bin/Microsoft.Extensions.FileSystemGlobbing.dll">
-      <publishTime>07/06/2018 02:26:56</publishTime>
+      <publishTime>06/07/2018 02:26:56</publishTime>
     </File>
     <File Include="bin/Microsoft.Extensions.Logging.Abstractions.dll">
-      <publishTime>07/06/2018 02:26:54</publishTime>
+      <publishTime>06/07/2018 02:26:54</publishTime>
     </File>
     <File Include="bin/Microsoft.Extensions.Logging.dll">
-      <publishTime>07/06/2018 02:27:02</publishTime>
+      <publishTime>06/07/2018 02:27:02</publishTime>
     </File>
     <File Include="bin/Microsoft.Extensions.Options.dll">
-      <publishTime>07/06/2018 02:27:02</publishTime>
+      <publishTime>06/07/2018 02:27:02</publishTime>
     </File>
     <File Include="bin/Microsoft.Extensions.Primitives.dll">
-      <publishTime>07/06/2018 02:26:58</publishTime>
+      <publishTime>06/07/2018 02:26:58</publishTime>
     </File>
     <File Include="bin/Microsoft.Practices.EnterpriseLibrary.Common.dll">
       <publishTime>04/25/2013 12:04:08</publishTime>
@@ -129,7 +132,7 @@ https://go.microsoft.com/fwlink/?LinkID=208121.
       <publishTime>04/25/2013 12:04:04</publishTime>
     </File>
     <File Include="bin/Microsoft.Web.Infrastructure.dll">
-      <publishTime>07/25/2012 12:48:56</publishTime>
+      <publishTime>07/25/2012 13:48:56</publishTime>
     </File>
     <File Include="bin/Mvp.Xml.dll">
       <publishTime>07/24/2012 14:45:38</publishTime>
@@ -138,16 +141,16 @@ https://go.microsoft.com/fwlink/?LinkID=208121.
       <publishTime>03/24/2018 18:44:14</publishTime>
     </File>
     <File Include="bin/PdfSharp.Charting.dll">
-      <publishTime>04/02/2019 14:21:52</publishTime>
+      <publishTime>02/04/2019 14:21:52</publishTime>
     </File>
     <File Include="bin/PdfSharp.dll">
-      <publishTime>04/02/2019 14:21:52</publishTime>
+      <publishTime>02/04/2019 14:21:52</publishTime>
     </File>
     <File Include="bin/RazorGenerator.Mvc.dll">
       <publishTime>02/02/2017 19:22:06</publishTime>
     </File>
     <File Include="bin/Remotion.Linq.dll">
-      <publishTime>06/02/2018 23:25:00</publishTime>
+      <publishTime>02/06/2018 23:25:00</publishTime>
     </File>
     <File Include="bin/roslyn/csc.exe">
       <publishTime>08/08/2018 06:38:48</publishTime>
@@ -189,10 +192,10 @@ https://go.microsoft.com/fwlink/?LinkID=208121.
       <publishTime>08/08/2018 13:09:42</publishTime>
     </File>
     <File Include="bin/roslyn/Microsoft.DiaSymReader.Native.amd64.dll">
-      <publishTime>05/12/2017 09:36:44</publishTime>
+      <publishTime>12/05/2017 09:36:44</publishTime>
     </File>
     <File Include="bin/roslyn/Microsoft.DiaSymReader.Native.x86.dll">
-      <publishTime>05/12/2017 09:36:44</publishTime>
+      <publishTime>12/05/2017 09:36:44</publishTime>
     </File>
     <File Include="bin/roslyn/Microsoft.Managed.Core.targets">
       <publishTime>08/08/2018 13:09:42</publishTime>
@@ -201,85 +204,85 @@ https://go.microsoft.com/fwlink/?LinkID=208121.
       <publishTime>08/08/2018 13:09:42</publishTime>
     </File>
     <File Include="bin/roslyn/Microsoft.Win32.Primitives.dll">
-      <publishTime>05/11/2016 18:55:32</publishTime>
+      <publishTime>11/05/2016 18:55:32</publishTime>
     </File>
     <File Include="bin/roslyn/System.AppContext.dll">
-      <publishTime>05/11/2016 18:55:34</publishTime>
+      <publishTime>11/05/2016 18:55:34</publishTime>
     </File>
     <File Include="bin/roslyn/System.Collections.Immutable.dll">
-      <publishTime>05/16/2018 04:29:34</publishTime>
+      <publishTime>05/16/2018 05:29:34</publishTime>
     </File>
     <File Include="bin/roslyn/System.Console.dll">
-      <publishTime>05/11/2016 18:55:48</publishTime>
+      <publishTime>11/05/2016 18:55:48</publishTime>
     </File>
     <File Include="bin/roslyn/System.Diagnostics.DiagnosticSource.dll">
-      <publishTime>05/11/2016 18:55:52</publishTime>
+      <publishTime>11/05/2016 18:55:52</publishTime>
     </File>
     <File Include="bin/roslyn/System.Diagnostics.FileVersionInfo.dll">
-      <publishTime>05/11/2016 18:55:56</publishTime>
+      <publishTime>11/05/2016 18:55:56</publishTime>
     </File>
     <File Include="bin/roslyn/System.Diagnostics.StackTrace.dll">
-      <publishTime>05/11/2016 18:55:52</publishTime>
+      <publishTime>11/05/2016 18:55:52</publishTime>
     </File>
     <File Include="bin/roslyn/System.Globalization.Calendars.dll">
-      <publishTime>05/11/2016 18:56:02</publishTime>
+      <publishTime>11/05/2016 18:56:02</publishTime>
     </File>
     <File Include="bin/roslyn/System.IO.Compression.dll">
-      <publishTime>05/11/2016 18:56:08</publishTime>
+      <publishTime>11/05/2016 18:56:08</publishTime>
     </File>
     <File Include="bin/roslyn/System.IO.Compression.ZipFile.dll">
-      <publishTime>05/11/2016 18:56:04</publishTime>
+      <publishTime>11/05/2016 18:56:04</publishTime>
     </File>
     <File Include="bin/roslyn/System.IO.FileSystem.dll">
-      <publishTime>05/11/2016 18:56:08</publishTime>
+      <publishTime>11/05/2016 18:56:08</publishTime>
     </File>
     <File Include="bin/roslyn/System.IO.FileSystem.Primitives.dll">
-      <publishTime>05/11/2016 18:56:08</publishTime>
+      <publishTime>11/05/2016 18:56:08</publishTime>
     </File>
     <File Include="bin/roslyn/System.Net.Http.dll">
-      <publishTime>05/11/2016 18:56:30</publishTime>
+      <publishTime>11/05/2016 18:56:30</publishTime>
     </File>
     <File Include="bin/roslyn/System.Net.Sockets.dll">
-      <publishTime>05/11/2016 18:56:34</publishTime>
+      <publishTime>11/05/2016 18:56:34</publishTime>
     </File>
     <File Include="bin/roslyn/System.Reflection.Metadata.dll">
-      <publishTime>05/16/2018 04:29:44</publishTime>
+      <publishTime>05/16/2018 05:29:44</publishTime>
     </File>
     <File Include="bin/roslyn/System.Runtime.InteropServices.RuntimeInformation.dll">
-      <publishTime>05/11/2016 18:57:00</publishTime>
+      <publishTime>11/05/2016 18:57:00</publishTime>
     </File>
     <File Include="bin/roslyn/System.Security.Cryptography.Algorithms.dll">
-      <publishTime>05/11/2016 18:57:14</publishTime>
+      <publishTime>11/05/2016 18:57:14</publishTime>
     </File>
     <File Include="bin/roslyn/System.Security.Cryptography.Encoding.dll">
-      <publishTime>05/11/2016 18:57:08</publishTime>
+      <publishTime>11/05/2016 18:57:08</publishTime>
     </File>
     <File Include="bin/roslyn/System.Security.Cryptography.Primitives.dll">
-      <publishTime>05/11/2016 18:57:18</publishTime>
+      <publishTime>11/05/2016 18:57:18</publishTime>
     </File>
     <File Include="bin/roslyn/System.Security.Cryptography.X509Certificates.dll">
-      <publishTime>05/11/2016 18:57:18</publishTime>
+      <publishTime>11/05/2016 18:57:18</publishTime>
     </File>
     <File Include="bin/roslyn/System.Text.Encoding.CodePages.dll">
-      <publishTime>05/11/2016 18:57:20</publishTime>
+      <publishTime>11/05/2016 18:57:20</publishTime>
     </File>
     <File Include="bin/roslyn/System.Threading.Tasks.Extensions.dll">
-      <publishTime>05/11/2016 18:57:24</publishTime>
+      <publishTime>11/05/2016 18:57:24</publishTime>
     </File>
     <File Include="bin/roslyn/System.ValueTuple.dll">
-      <publishTime>05/11/2016 18:57:30</publishTime>
+      <publishTime>11/05/2016 18:57:30</publishTime>
     </File>
     <File Include="bin/roslyn/System.Xml.ReaderWriter.dll">
-      <publishTime>05/11/2016 18:57:36</publishTime>
+      <publishTime>11/05/2016 18:57:36</publishTime>
     </File>
     <File Include="bin/roslyn/System.Xml.XmlDocument.dll">
-      <publishTime>05/11/2016 18:57:34</publishTime>
+      <publishTime>11/05/2016 18:57:34</publishTime>
     </File>
     <File Include="bin/roslyn/System.Xml.XPath.dll">
-      <publishTime>05/11/2016 18:57:40</publishTime>
+      <publishTime>11/05/2016 18:57:40</publishTime>
     </File>
     <File Include="bin/roslyn/System.Xml.XPath.XDocument.dll">
-      <publishTime>05/11/2016 18:57:34</publishTime>
+      <publishTime>11/05/2016 18:57:34</publishTime>
     </File>
     <File Include="bin/roslyn/vbc.exe">
       <publishTime>08/08/2018 06:38:48</publishTime>
@@ -297,61 +300,61 @@ https://go.microsoft.com/fwlink/?LinkID=208121.
       <publishTime>08/08/2018 13:18:16</publishTime>
     </File>
     <File Include="bin/SCTraining.Web.dll">
-      <publishTime>02/14/2023 08:56:11</publishTime>
+      <publishTime>02/17/2023 06:48:53</publishTime>
     </File>
     <File Include="bin/SCTraining.Web.pdb">
-      <publishTime>02/14/2023 08:56:11</publishTime>
+      <publishTime>02/17/2023 06:48:53</publishTime>
     </File>
     <File Include="bin/Sitecore.Analytics.Aggregation.dll">
-      <publishTime>12/11/2019 21:44:28</publishTime>
+      <publishTime>11/12/2019 21:44:28</publishTime>
     </File>
     <File Include="bin/Sitecore.Analytics.Core.dll">
-      <publishTime>12/11/2019 21:44:10</publishTime>
+      <publishTime>11/12/2019 21:44:10</publishTime>
     </File>
     <File Include="bin/Sitecore.Analytics.DataAccess.dll">
-      <publishTime>12/11/2019 22:18:06</publishTime>
+      <publishTime>11/12/2019 22:18:06</publishTime>
     </File>
     <File Include="bin/Sitecore.Analytics.dll">
-      <publishTime>12/11/2019 22:18:20</publishTime>
+      <publishTime>11/12/2019 22:18:20</publishTime>
     </File>
     <File Include="bin/Sitecore.Analytics.Model.dll">
-      <publishTime>12/11/2019 21:43:58</publishTime>
+      <publishTime>11/12/2019 21:43:58</publishTime>
     </File>
     <File Include="bin/Sitecore.Analytics.Processing.dll">
-      <publishTime>12/11/2019 21:44:16</publishTime>
+      <publishTime>11/12/2019 21:44:16</publishTime>
     </File>
     <File Include="bin/Sitecore.Analytics.XConnect.dll">
-      <publishTime>12/11/2019 22:18:12</publishTime>
+      <publishTime>11/12/2019 22:18:12</publishTime>
     </File>
     <File Include="bin/Sitecore.Annotations.dll">
-      <publishTime>06/05/2019 11:40:24</publishTime>
+      <publishTime>05/06/2019 11:40:24</publishTime>
     </File>
     <File Include="bin/Sitecore.CES.DeviceDetection.dll">
-      <publishTime>12/11/2019 20:10:46</publishTime>
+      <publishTime>11/12/2019 20:10:46</publishTime>
     </File>
     <File Include="bin/Sitecore.CES.dll">
-      <publishTime>12/11/2019 19:55:02</publishTime>
+      <publishTime>11/12/2019 19:55:02</publishTime>
     </File>
     <File Include="bin/Sitecore.CES.GeoIp.Core.dll">
-      <publishTime>12/11/2019 20:10:42</publishTime>
+      <publishTime>11/12/2019 20:10:42</publishTime>
     </File>
     <File Include="bin/Sitecore.Client.dll">
-      <publishTime>09/11/2019 19:13:18</publishTime>
+      <publishTime>11/09/2019 19:13:18</publishTime>
     </File>
     <File Include="bin/Sitecore.Cloud.Nexus.dll">
       <publishTime>05/28/2018 13:43:32</publishTime>
     </File>
     <File Include="bin/Sitecore.ContentSearch.ContentExtraction.dll">
-      <publishTime>12/11/2019 19:58:54</publishTime>
+      <publishTime>11/12/2019 19:58:54</publishTime>
     </File>
     <File Include="bin/Sitecore.ContentSearch.Data.dll">
-      <publishTime>12/11/2019 19:58:34</publishTime>
+      <publishTime>11/12/2019 19:58:34</publishTime>
     </File>
     <File Include="bin/Sitecore.ContentSearch.dll">
-      <publishTime>12/11/2019 19:59:06</publishTime>
+      <publishTime>11/12/2019 19:59:06</publishTime>
     </File>
     <File Include="bin/Sitecore.ContentSearch.Linq.dll">
-      <publishTime>12/11/2019 19:58:42</publishTime>
+      <publishTime>11/12/2019 19:58:42</publishTime>
     </File>
     <File Include="bin/Sitecore.Framework.Conditions.dll">
       <publishTime>03/21/2019 11:30:12</publishTime>
@@ -369,97 +372,97 @@ https://go.microsoft.com/fwlink/?LinkID=208121.
       <publishTime>03/21/2019 12:38:52</publishTime>
     </File>
     <File Include="bin/Sitecore.Framework.Data.Blobs.Abstractions.dll">
-      <publishTime>04/09/2019 10:28:22</publishTime>
+      <publishTime>09/04/2019 10:28:22</publishTime>
     </File>
     <File Include="bin/Sitecore.Framework.Data.Blobs.dll">
-      <publishTime>04/09/2019 10:28:18</publishTime>
+      <publishTime>09/04/2019 10:28:18</publishTime>
     </File>
     <File Include="bin/Sitecore.Kernel.dll">
-      <publishTime>09/11/2019 19:12:26</publishTime>
+      <publishTime>11/09/2019 19:12:26</publishTime>
     </File>
     <File Include="bin/Sitecore.Logging.Client.dll">
-      <publishTime>12/04/2019 20:01:26</publishTime>
+      <publishTime>04/12/2019 20:01:26</publishTime>
     </File>
     <File Include="bin/Sitecore.Logging.dll">
-      <publishTime>12/04/2019 20:01:20</publishTime>
+      <publishTime>04/12/2019 20:01:20</publishTime>
     </File>
     <File Include="bin/Sitecore.Marketing.Core.dll">
-      <publishTime>12/11/2019 19:01:46</publishTime>
+      <publishTime>11/12/2019 19:01:46</publishTime>
     </File>
     <File Include="bin/Sitecore.Marketing.dll">
-      <publishTime>12/11/2019 19:02:00</publishTime>
+      <publishTime>11/12/2019 19:02:00</publishTime>
     </File>
     <File Include="bin/Sitecore.Marketing.Operations.Xdb.ReferenceData.Model.dll">
-      <publishTime>12/11/2019 20:34:40</publishTime>
+      <publishTime>11/12/2019 20:34:40</publishTime>
     </File>
     <File Include="bin/Sitecore.Marketing.Search.dll">
-      <publishTime>12/11/2019 20:35:10</publishTime>
+      <publishTime>11/12/2019 20:35:10</publishTime>
     </File>
     <File Include="bin/Sitecore.Marketing.Taxonomy.dll">
-      <publishTime>12/11/2019 19:01:54</publishTime>
+      <publishTime>11/12/2019 19:01:54</publishTime>
     </File>
     <File Include="bin/Sitecore.Marketing.xMgmt.dll">
-      <publishTime>12/11/2019 20:34:58</publishTime>
+      <publishTime>11/12/2019 20:34:58</publishTime>
     </File>
     <File Include="bin/Sitecore.Marketing.xMgmt.ReferenceData.dll">
-      <publishTime>12/11/2019 20:34:46</publishTime>
+      <publishTime>11/12/2019 20:34:46</publishTime>
     </File>
     <File Include="bin/Sitecore.Mvc.Analytics.dll">
-      <publishTime>12/11/2019 23:54:24</publishTime>
+      <publishTime>11/12/2019 23:54:24</publishTime>
     </File>
     <File Include="bin/Sitecore.Mvc.dll">
-      <publishTime>12/11/2019 20:39:12</publishTime>
+      <publishTime>11/12/2019 20:39:12</publishTime>
     </File>
     <File Include="bin/Sitecore.Nexus.Consumption.dll">
-      <publishTime>12/11/2019 16:30:44</publishTime>
+      <publishTime>11/12/2019 16:30:44</publishTime>
     </File>
     <File Include="bin/Sitecore.Nexus.dll">
-      <publishTime>06/08/2019 15:05:06</publishTime>
+      <publishTime>08/06/2019 15:05:06</publishTime>
     </File>
     <File Include="bin/Sitecore.Nexus.Licensing.dll">
       <publishTime>01/30/2019 08:09:34</publishTime>
     </File>
     <File Include="bin/Sitecore.Web.dll">
-      <publishTime>12/11/2019 20:33:32</publishTime>
+      <publishTime>11/12/2019 20:33:32</publishTime>
     </File>
     <File Include="bin/Sitecore.XConnect.Client.Configuration.dll">
-      <publishTime>12/11/2019 20:52:20</publishTime>
+      <publishTime>11/12/2019 20:52:20</publishTime>
     </File>
     <File Include="bin/Sitecore.XConnect.Client.dll">
-      <publishTime>12/11/2019 20:34:38</publishTime>
+      <publishTime>11/12/2019 20:34:38</publishTime>
     </File>
     <File Include="bin/Sitecore.XConnect.Collection.Model.dll">
-      <publishTime>12/11/2019 20:31:30</publishTime>
+      <publishTime>11/12/2019 20:31:30</publishTime>
     </File>
     <File Include="bin/Sitecore.XConnect.Core.dll">
-      <publishTime>12/11/2019 19:14:30</publishTime>
+      <publishTime>11/12/2019 19:14:30</publishTime>
     </File>
     <File Include="bin/Sitecore.XConnect.Diagnostics.dll">
-      <publishTime>12/11/2019 19:02:16</publishTime>
+      <publishTime>11/12/2019 19:02:16</publishTime>
     </File>
     <File Include="bin/Sitecore.XConnect.dll">
-      <publishTime>12/11/2019 20:31:24</publishTime>
+      <publishTime>11/12/2019 20:31:24</publishTime>
     </File>
     <File Include="bin/Sitecore.XConnect.Search.dll">
-      <publishTime>12/11/2019 19:01:12</publishTime>
+      <publishTime>11/12/2019 19:01:12</publishTime>
     </File>
     <File Include="bin/Sitecore.Xdb.Common.Web.dll">
-      <publishTime>12/11/2019 19:01:16</publishTime>
+      <publishTime>11/12/2019 19:01:16</publishTime>
     </File>
     <File Include="bin/Sitecore.Xdb.Configuration.dll">
-      <publishTime>12/11/2019 21:44:04</publishTime>
+      <publishTime>11/12/2019 21:44:04</publishTime>
     </File>
     <File Include="bin/Sitecore.Xdb.Processing.Queue.dll">
-      <publishTime>12/11/2019 20:52:20</publishTime>
+      <publishTime>11/12/2019 20:52:20</publishTime>
     </File>
     <File Include="bin/Sitecore.Xdb.ReferenceData.Core.dll">
-      <publishTime>12/11/2019 20:09:58</publishTime>
+      <publishTime>11/12/2019 20:09:58</publishTime>
     </File>
     <File Include="bin/Sitecore.Xdb.Reporting.dll">
-      <publishTime>12/11/2019 21:44:20</publishTime>
+      <publishTime>11/12/2019 21:44:20</publishTime>
     </File>
     <File Include="bin/Sitecore.Zip.dll">
-      <publishTime>12/04/2019 20:02:04</publishTime>
+      <publishTime>04/12/2019 20:02:04</publishTime>
     </File>
     <File Include="bin/System.Buffers.dll">
       <publishTime>05/15/2018 15:29:34</publishTime>
@@ -471,13 +474,13 @@ https://go.microsoft.com/fwlink/?LinkID=208121.
       <publishTime>11/21/2016 15:06:02</publishTime>
     </File>
     <File Include="bin/System.IO.Packaging.dll">
-      <publishTime>12/06/2016 01:13:48</publishTime>
+      <publishTime>06/12/2016 01:13:48</publishTime>
     </File>
     <File Include="bin/System.Memory.dll">
       <publishTime>06/06/2018 15:29:04</publishTime>
     </File>
     <File Include="bin/System.Net.Http.Formatting.dll">
-      <publishTime>11/05/2018 00:38:56</publishTime>
+      <publishTime>05/11/2018 00:38:56</publishTime>
     </File>
     <File Include="bin/System.Numerics.Vectors.dll">
       <publishTime>07/19/2017 12:01:36</publishTime>
@@ -507,7 +510,7 @@ https://go.microsoft.com/fwlink/?LinkID=208121.
       <publishTime>11/05/2018 00:41:08</publishTime>
     </File>
     <File Include="bin/System.Web.Mvc.dll">
-      <publishTime>01/02/2018 13:16:32</publishTime>
+      <publishTime>02/01/2018 13:16:32</publishTime>
     </File>
     <File Include="bin/System.Web.Razor.dll">
       <publishTime>11/28/2018 13:00:12</publishTime>
@@ -524,14 +527,29 @@ https://go.microsoft.com/fwlink/?LinkID=208121.
     <File Include="bin/WebActivatorEx.dll">
       <publishTime>06/08/2013 15:07:26</publishTime>
     </File>
+    <File Include="Views/BlogListing.cshtml">
+      <publishTime>02/16/2023 08:23:33</publishTime>
+    </File>
+    <File Include="Views/BlogPost/BlogDetails.cshtml">
+      <publishTime>02/16/2023 07:40:28</publishTime>
+    </File>
     <File Include="Views/Events/Index.cshtml">
       <publishTime>02/14/2023 08:03:36</publishTime>
     </File>
+    <File Include="Views/Search/FindResults.cshtml">
+      <publishTime>02/17/2023 06:06:41</publishTime>
+    </File>
     <File Include="Views/Shared/MainLayout.cshtml">
-      <publishTime>02/14/2023 06:56:18</publishTime>
+      <publishTime>02/16/2023 06:20:28</publishTime>
+    </File>
+    <File Include="Views/Shared/twoColumnSublayout.cshtml">
+      <publishTime>02/16/2023 06:13:19</publishTime>
     </File>
     <File Include="Views/simplemvcviewrendering.cshtml">
       <publishTime>02/14/2023 07:52:50</publishTime>
+    </File>
+    <File Include="Views/web.config">
+      <publishTime>02/16/2023 07:02:51</publishTime>
     </File>
   </ItemGroup>
 </Project>
